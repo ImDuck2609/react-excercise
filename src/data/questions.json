@@ -1,0 +1,62 @@
+[
+    {
+        "id": "q001",
+        "question": "I ____ to work every day.",
+        "choices": ["go", "am going", "goes", "went"],
+        "correct": 0
+    },
+    {
+        "id": "q002",
+        "question": "She is looking forward ___ the trip.",
+        "choices": ["to", "for", "at", "with"],
+        "correct": 0
+    },
+    {
+        "id": "q003",
+        "question": "Choose the closest meaning of 'abundant'.",
+        "choices": ["scarce", "plentiful", "rare", "tiny"],
+        "correct": 1
+    },
+    {
+        "id": "q004",
+        "question": "Why did Anna leave early? Passage: \"Anna left early because she had an appointment. She took a taxi and arrived on time.\"",
+        "choices": ["She had an appointment.", "She was tired.", "She missed the bus.", "She wanted to shop."],
+        "correct": 0
+    },
+    {
+        "id": "q005",
+        "question": "He gave ___ smoking last year.",
+        "choices": ["up", "in", "off", "away"],
+        "correct": 0
+    },
+    {
+        "id": "q006",
+        "question": "Identify and correct the error: \"She don't like coffee.\"",
+        "choices": ["She doesn't like coffee.", "She don't likes coffee.", "She doesn't likes coffee.", "She not like coffee."],
+        "correct": 0
+    },
+    {
+        "id": "q007",
+        "question": "Fill the blanks: \"If it ___ tomorrow, we will cancel the picnic.\"",
+        "choices": ["rains", "rain", "rained", "will rain"],
+        "correct": 0
+    },
+    {
+        "id": "q008",
+        "question": "\"Cats are mammals.\" True or False?",
+        "choices": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "id": "q009",
+        "question": "Reorder into a correct question: \"you / have / Do / time / ?\"",
+        "choices": ["Do you have time?", "Have you time?", "You have time?", "Do have you time?"],
+        "correct": 0
+    },
+    {
+        "id": "q010",
+        "question": "Passive voice: Convert to passive: \"They will finish the project next week.\"",
+        "choices": ["The project will be finished next week.", "Next week, the project is finished.", "Next week, they will finish the project.", "The project will finish next week."],
+        "correct": 0
+    }
+]
